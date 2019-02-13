@@ -1,0 +1,61 @@
+body{
+ text-align:center;   
+ background-repeat: no-repeat;
+ background-image: url(https://steamuserimages-a.akamaihd.net/ugc/990115005959793012/8EFAB2C228EB74BECE32F64F219D6333F0984634/);
+}
+
+#message{
+ color: white;   
+ background-color: black;
+ border: white 10px groove;
+ font-size: 50px;
+}
+
+marquee{
+ font-size: 100px;
+ background-color: black;
+ color: white;
+ border: white 10px outset;
+}
+
+button{
+ position: relative;
+ bottom: 470px;
+ left: 610px;
+}
+
+input{
+ position: relative;
+ bottom: 500px;
+ left: 610px;
+}
+
+p{
+ position: relative;
+ top: -500px;
+ left: 1300px;
+ font-size: 20px;
+ background-color: black;
+ color: white;
+ border: white 10px outset;
+ max-width: 500px;
+}
+
+.shrek{
+ position: relative;
+ left: 300px;
+ top: 100px;
+}
+
+.ball {
+ position: relative;   
+ top: 50px;
+ right: 325px;
+ height: 250px;
+}
+
+.table{
+ position: relative;
+ top: 350px;
+ height: 400px;
+}
